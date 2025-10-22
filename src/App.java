@@ -48,6 +48,6 @@ public class App {
         answer = in.nextLine();
         
     } while (answer.equals("yes"));
-    System.out.println("Good for you, for quiting your gambling addiction!");
+    System.out.println("Good for you, for quitting your gambling addiction!");
     }
 }
