@@ -41,7 +41,7 @@ public class App {
         times = 0;
         if (money == 0) 
         {
-            System.out.println("You are out of money.");
+            System.out.println("You are out of money, better luck next time");
             break;
         }
         System.out.println("You have " + money + "£ left. Would you like to play again?");
